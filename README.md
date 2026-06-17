@@ -95,3 +95,7 @@ Aditya Tribhuvan
 MSc AI and Computer Science, University of Birmingham Dubai
 LinkedIn: https://www.linkedin.com/in/aditya-tribhuvan/
 GitHub: https://github.com/DataScientist64
+
+## Demo Video
+
+Watch a 2-3 minute walkthrough: https://www.loom.com/share/373a6deb41ed480a876f6072047e3366
